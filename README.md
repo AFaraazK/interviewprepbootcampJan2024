@@ -69,11 +69,20 @@ that far. Whether it runs or not, just submit what you have.
 * Additional readings: [Hash Table Reading](https://leetcode.com/explore/learn/card/hash-table/)
 * Recordings: https://youtu.be/-q2l7qY0Qo0, https://youtu.be/h7OtJkKBq40
 
-*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/), read additional readings on hash tables*
+*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/), read additional readings on hash tables, please complete preassessment test if you have not done so [preassessment](https://hr.gs/hunterjan24technical)*
+
 
 01/04 (Thurs):
 * Topics of the day: Maps, Two Pointers
-* Problems covered: [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/), [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* Problems covered: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* Recordings: https://youtu.be/7vnX1Ztn6Xw
+
+*Homework: Leetcode [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)*
+
+
+01/05 (Fri):
+* Topics of the day: Two Pointers, Sliding Window
+* Problems covered: [Three Sum](https://leetcode.com/problems/3sum/), [Water Container](https://leetcode.com/problems/container-with-most-water/), [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * Recordings:
 
-*Homework: Leetcode [Three Sum](https://leetcode.com/problems/3sum/)*
+*Homework: Leetcode *
