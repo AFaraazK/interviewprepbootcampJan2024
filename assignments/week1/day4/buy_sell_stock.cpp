@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
+    int maxProfit(std::vector<int>& prices) {
         int max_profit = 0;
         int curr_profit = 0;
         int l = 0;
@@ -9,7 +9,7 @@ public:
         while ((l < r) && (r < prices.size())){
             if(prices[l] < prices[r]){
                 curr_profit = prices[r] - prices[l];
-                max_profit = max(curr_profit, max_profit);
+                max_profit = std::max(curr_profit, max_profit);
             }
             else{
                 l = r;
