@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
-        int max_profit = 0;
+        int max_profit = 0; 
         int curr_profit = 0;
         int l = 0;
         int r = 1;
